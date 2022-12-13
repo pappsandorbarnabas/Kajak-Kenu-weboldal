@@ -1,1 +1,1 @@
-# Kajak-Kenu-weboldal
+# Kajak kenu weboldal
